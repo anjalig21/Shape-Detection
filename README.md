@@ -5,7 +5,7 @@ Created a program that takes in an image of random shapes and is able to determi
 
 # Code Requirements
 - Must have Python 3.7 
-- Must have OpenCV library installed
+- Must have the OpenCV library installed
 
 # Original Image
 <img src="Resources/shapes.png" alt="alt text" width="500" height="250">
