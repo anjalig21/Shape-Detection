@@ -9,3 +9,7 @@ Created a program that takes in an image of random shapes and is able to determi
 # Image Produced
 <img src="Resources/shapes_detected.png" alt="alt text" width="500" height="290">
 
+# Image Produced
+- Must have Python 3.7 
+- Must have OpenCV library installed
+
