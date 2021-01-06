@@ -1,15 +1,15 @@
 # Shape-Detection
 
-# Description
+## Description
 Created a program that takes in an image of random shapes and is able to determine the name of the shape along with its area and perimeter in millimeters.
 
-# Code Requirements
+## Code Requirements
 - Must have Python 3.7 
 - Must have the OpenCV library installed
 
-# Original Image
+## Original Image
 <img src="Resources/shapes.png" alt="alt text" width="485" height="250">
 
-# Image Produced
+## Image Produced
 <img src="Resources/shapes_detected.png" alt="alt text" width="450" height="300">
 
